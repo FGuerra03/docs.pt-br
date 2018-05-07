@@ -39,7 +39,7 @@ Este exemplo demonstra como converter expressões regulares simples para trabalh
 |?|Letra de ASCII. Entrada opcional.|[a-zA-Z]?|  
 |&|Caractere. Entrada obrigatória.|[\p{Ll}\p{Lu}\p{Lt}\p{Lm}\p{Lo]}|  
 |C|Caractere. Entrada opcional.|[\p{Ll}\p{Lu}\p{Lt}\p{Lm}\p{Lo}]?|  
-|Um|Alfanumérico. Entrada opcional.|\W|  
+|A|Alfanumérico. Entrada opcional.|\W|  
 |.|Apropriado para decimal.|Não disponível.|  
 |,|Cultura apropriado para milhares.|Não disponível.|  
 |:|Separador de tempo apropriado.|Não disponível.|  
